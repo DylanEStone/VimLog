@@ -1,0 +1,10 @@
+au BufNewFile,BufRead *.*0 set filetype=log
+au BufNewFile,BufRead *.*1 set filetype=log
+au BufNewFile,BufRead *.*2 set filetype=log
+au BufNewFile,BufRead *.*3 set filetype=log
+au BufNewFile,BufRead *.*4 set filetype=log
+au BufNewFile,BufRead *.*5 set filetype=log
+au BufNewFile,BufRead *.*6 set filetype=log
+au BufNewFile,BufRead *.*7 set filetype=log
+au BufNewFile,BufRead *.*8 set filetype=log
+au BufNewFile,BufRead *.*9 set filetype=log
